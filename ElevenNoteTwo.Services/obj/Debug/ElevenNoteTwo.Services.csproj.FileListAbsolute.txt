@@ -14,3 +14,9 @@ C:\ElevenFiftyProjects\DotNetProjects\APIClassWork\ElevenNoteTwo\ElevenNoteTwo.S
 C:\ElevenFiftyProjects\DotNetProjects\APIClassWork\ElevenNoteTwo\ElevenNoteTwo.Services\obj\Debug\ElevenNoteTwo.Services.csproj.CopyComplete
 C:\ElevenFiftyProjects\DotNetProjects\APIClassWork\ElevenNoteTwo\ElevenNoteTwo.Services\obj\Debug\ElevenNoteTwo.Services.dll
 C:\ElevenFiftyProjects\DotNetProjects\APIClassWork\ElevenNoteTwo\ElevenNoteTwo.Services\obj\Debug\ElevenNoteTwo.Services.pdb
+C:\ElevenFiftyProjects\DotNetProjects\APIClassWork\ElevenNoteTwo\ElevenNoteTwo.Services\bin\Debug\ElevenNoteTwo.Data.dll
+C:\ElevenFiftyProjects\DotNetProjects\APIClassWork\ElevenNoteTwo\ElevenNoteTwo.Services\bin\Debug\ElevenNoteTwo.Models.dll
+C:\ElevenFiftyProjects\DotNetProjects\APIClassWork\ElevenNoteTwo\ElevenNoteTwo.Services\bin\Debug\ElevenNoteTwo.Data.pdb
+C:\ElevenFiftyProjects\DotNetProjects\APIClassWork\ElevenNoteTwo\ElevenNoteTwo.Services\bin\Debug\ElevenNoteTwo.Data.dll.config
+C:\ElevenFiftyProjects\DotNetProjects\APIClassWork\ElevenNoteTwo\ElevenNoteTwo.Services\bin\Debug\ElevenNoteTwo.Models.pdb
+C:\ElevenFiftyProjects\DotNetProjects\APIClassWork\ElevenNoteTwo\ElevenNoteTwo.Services\bin\Debug\ElevenNoteTwo.Models.dll.config
