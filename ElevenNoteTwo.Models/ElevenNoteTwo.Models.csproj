@@ -55,6 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="NoteTwoCreate.cs" />
+    <Compile Include="NoteTwoDetail.cs" />
     <Compile Include="NoteTwoListItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
