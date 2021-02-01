@@ -54,6 +54,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="NoteTwoEdit.cs" />
     <Compile Include="NoteTwoCreate.cs" />
     <Compile Include="NoteTwoDetail.cs" />
     <Compile Include="NoteTwoListItem.cs" />
